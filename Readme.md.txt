@@ -1,0 +1,1 @@
+This app helps you get meaning of a word.
